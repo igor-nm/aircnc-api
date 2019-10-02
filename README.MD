@@ -1,5 +1,5 @@
 # Aircnc - API
-Aircnc-api is a RocketSeat’s back-end project nineth OmniStack week in 2018.
+Aircnc-api is a RocketSeat’s back-end project nineth OmniStack week in 2019.
 It is being used as a study project to improve my skils.
 
 ### Features:
