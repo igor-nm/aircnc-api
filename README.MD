@@ -3,7 +3,7 @@ Aircnc-api is a RocketSeat’s back-end project nineth OmniStack week in 2019.
 It is being used as a study project to improve my skils.
 
 ### Features:
-  - Creeate user;
+  - Create user;
   - Create spot;
   - Create bookings;
   - Show spots by technology;
