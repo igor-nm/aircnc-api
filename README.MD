@@ -7,7 +7,7 @@ It is being used as a study project to improve my skils.
   - Create spot;
   - Create bookings;
   - Show spots by technology;
-  - Show spots by user (when is compoany);
+  - Show spots by user (when is company);
 
 ### Routes:
 | Method | Action          | Header                               | Body      | Query     | Path                |
